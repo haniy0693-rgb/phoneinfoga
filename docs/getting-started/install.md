@@ -13,7 +13,8 @@ Follow the instructions :
 
 You can also do it from the terminal (UNIX systems only) :
 
-1. Download the latest release in the current directory
+1. Download the latest release in the current directory instagram
+2. 
 
 ```
 # Add --help at the end of the command for a list of install options
